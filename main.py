@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
 
 
 from random import randint
@@ -23,7 +19,7 @@ while chances > 0:
         print("Great! You got it right.")
         break
     else:
-        guessed_digits = set()
+        guessed_digits = set()    #distinct elements 
         for i in range(0, 3):
             if guess[i] == num[i]:
                 bulls += 1
