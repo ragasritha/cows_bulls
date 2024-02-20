@@ -2,7 +2,7 @@ COWS AND BULLS GAME:
 
 Welcome to the "Cows and Bulls" game! Can you guess the secret 3-digit number?
 
-HOW TO PLAY?
+HOW TO PLAY?!
 
 .The system will randomly generate a 3-digit number with distinct digits.
 .Your task is to guess this number within 5 attempts.
